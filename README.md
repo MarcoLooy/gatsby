@@ -1,5 +1,5 @@
 # gatsby
 Gatsby project
 
-test <product>
+test \<product>
   
